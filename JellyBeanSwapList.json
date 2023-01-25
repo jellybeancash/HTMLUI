@@ -1,0 +1,156 @@
+{
+  "name": "JellyBeanSwapList",
+  "logoURI": "https://raw.githubusercontent.com/cyberminter/jellybeanswap-branding/main/brand/logo.png",
+  "keywords": [
+    "audited",
+    "verified",
+    "special tokens"
+  ],
+  "tags": {
+    
+    "JellyBean": {
+      "name": "JellyBeanCash",
+      "description": "ETC token for the Jelly Bean Swap DEX."
+    },
+    "BrightCoin": {
+      "name": "Bright Coin",
+      "description": "A smart coin for Bright thinking DeFI."
+    },
+    "OneCoin": {
+      "name": "One Coin",
+      "description": "One Coin to rule them all."
+    },
+    "HEBE": {
+      "name": "HEBE Token",
+      "description": "Hebeswap token."
+    },
+    "cake": {
+      "name": "PancakeSwap Token",
+      "description": "PancakeSwap Token."
+    },
+    "bTR3B": {
+      "name": "TR3B-Manta",
+      "description": "A community's participation for rewarding witnessed phenomena's"
+    },
+    "BUSD": {
+      "name": "Binance-Peg BUSD Token",
+      "description": "A new stablecoin, issued in partnership with Binance"
+    },
+    "BUNNY": {
+      "name": "Bunny Token",
+      "description": "The Pancake Bunny finance token"
+    },
+    "ETC": {
+      "name": "Binance-Peg Ethereum Classic",
+      "description": "Binance-Peg of Ethereum Classic"
+    },
+    "AVAX": {
+      "name": "Binance-Peg Avalanche Token",
+      "description": "Binance-Peg of Avalanche"
+    }
+    
+    
+    
+  },
+
+  "timestamp": "2022-07-05T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 61,
+      "address": "0xc920E13570D9D5058e69Da46Ada32Bc188996d78",
+      "symbol": "BeanCash",
+      "name": "Jelly Bean Cash",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/cyberminter/jellybeanswap-branding/main/brand/logo.png",
+      "tags": [
+        "JellyBean"
+      ]
+    },
+    {
+      "chainId": 61,
+      "address": "0x3d39756b1FF9C68a4E552aE5722cFAF4b8BdB543",
+      "symbol": "BLUB",
+      "name": "Bright Coin",
+      "decimals": 3,
+      "logoURI": "https://raw.githubusercontent.com/cyberminter/cybermint/main/logos/cybermintGreen/brightCoin.png",
+      "tags": [
+        "BrightCoin"
+      ]
+    },
+    {
+      "chainId": 61,
+      "address": "0x14045BCe51E1461033C03fdff394F85d2AE6EDF9",
+      "symbol": "OneCoin",
+      "name": "One Coin",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/cyberminter/cybermint/main/logos/cybermintGreen/oneCoin.png",
+      "tags": [
+        "OneCoin"
+      ]
+    },
+    {
+      "name": "HEBE Token",
+      "address": "0x88d8c3dc6b5324f34e8cf229a93e197048671abd",
+      "symbol": "HEBE",
+      "decimals": 18,
+      "chainId": 61,
+      "logoURI": "https://app.hebeswap.com/logo.png"
+    },
+    {
+      "name": "PancakeSwap Token",
+      "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+      "symbol": "cake",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7186.png"
+    },
+    {
+      "name": "TR3B-Manta",
+      "address": "0xB6Ace1349339E4f5D2c6962Fa8e328D1Dd22E18F",
+      "symbol": "bTR3B",
+      "decimals": 8,
+      "chainId": 56,
+      "logoURI": "https://pbs.twimg.com/profile_images/1541143000151113735/j4xJub9r_400x400.jpg"
+    },
+    {
+      "name": "Binance-Peg BUSD Token",
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://yourcryptolibrary.com/wp-content/uploads/2022/04/Binance-USDollar-logo.png"
+    },
+    {
+      "name": "Bunny Token",
+      "address": "0xC9849E6fdB743d08fAeE3E34dd2D1bc69EA11a51",
+      "symbol": "BUNNY",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://bscscan.com/token/images/pancakebunny_32.png"
+    },
+    {
+      "name": "Binance-Peg Ethereum Classic",
+      "address": "0x3d6545b08693daE087E957cb1180ee38B9e3c25E",
+      "symbol": "ETC",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://bscscan.com/token/images/ethclassic_32.png"
+    },
+    {
+      "name": "Binance-Peg Avalanche Token",
+      "address": "0x1CE0c2827e2eF14D5C4f29a091d735A204794041",
+      "symbol": "AVAX",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://bscscan.com/token/images/avax_32.png"
+    }
+
+
+     
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
